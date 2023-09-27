@@ -1,0 +1,27 @@
+.transactionHistory {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  /* max-width: 400px; */
+  width: 100%;
+  margin-top: 15px;
+  text-align: center;
+}
+
+.transactionHead {
+  font-size: 18px;
+  color: #333;
+  background-color: crimson;
+}
+
+.HeadType {
+  text-align: start;
+  padding-left: 25px;
+}
+
+.transactionBody {
+  background-color: #f3f3f3;
+}
+
+.type {
+  text-align: start;
+  padding-left: 25px;
+}
